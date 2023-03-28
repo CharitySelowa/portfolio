@@ -1,9 +1,9 @@
 import resume from '../assets/pdf/resume.pdf'
-import  Kgomotso  from '../jpg/Kgomotso.jpeg'
+import charity from '../jpg/charity.jpeg'
 export const headerData = {
-    name: 'Kgomotso Motshweni',
+    name: 'Selowa Tumiso Charity',
     title: "Full-Stack Developer",
     desciption:"Full-stack developer with a specialization in front-end and back-end web development. Adaptable to new technology to enhance my skills and capabilities.",
-    image: Kgomotso,
+    image: charity,
     resumePdf: resume
 }

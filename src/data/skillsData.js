@@ -4,11 +4,13 @@
     'Javascript',
     "Node JS",
     'React',
-    "MongoDB",
+    "PostgreSQL",
     "Git",
     "Bootstrap",
+    "Tailwind",
     "Microsoft Office",
-    "Angular"
+    "Angular",
+    
   
 ]
 
